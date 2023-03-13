@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://akilanselvam:q1QiG80EAus2sFKF@cluster0.kqql3ne.mongodb.net/?retryWrites=true&w=majority
+      database: LifeHack
